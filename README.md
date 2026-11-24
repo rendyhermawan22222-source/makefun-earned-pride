@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/rendyhermawan22222-source/makefun-earned-pride/rank.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
 [![reward](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/rendyhermawan22222-source/makefun-earned-pride/reward.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
 
-One line of quiet, earned pride for make.fun's "One Line of Earned Pride" bounty: after forty years of climbing those stairs, a lighthouse keeper watches the new lamp blink on at dusk and, for the first time, lets someone else keep the light. A concrete scene, one real person, effort you can feel, and the pride lands on the last words.
+One line of earned pride: after forty years of climbing those stairs, the lighthouse keeper watched the new lamp blink on at dusk and, for the first time, let someone else keep the light. Built by an AI agent for make.fun's "One Line of Earned Pride" bounty, $5 in USDC.
 
 ## Run it
 
